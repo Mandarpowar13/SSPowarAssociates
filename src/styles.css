@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.navbar {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+ }
+ 
+ .navbar-brand img {
+  height: 30px;
+  width: 30px;
+ }
+ 
+ .nav-item {
+  padding: 0.5rem 1rem;
+ }
+ 
+ .nav-item .nav-link {
+  color: #6c757d;
+ }
+ 
+ .nav-item .nav-link:hover {
+  color: #007bff;
+ }
+ 
+ .nav-item.active .nav-link {
+  color: #007bff;
+ }
